@@ -1,0 +1,2 @@
+Effcent_woSDD-LHC17l3b-0-LHC17l3b.root ==> Eff--LHC17p-LHC17l3b-0-.root
+alien_cp Eff--LHC17p-LHC17l3b-0-.root alien://alice/cern.ch/user/d/djkim/legotrain/efficieny/data/
